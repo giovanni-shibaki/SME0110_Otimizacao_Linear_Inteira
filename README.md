@@ -14,4 +14,4 @@ Trabalho final da disciplina SME0110 - Programação Matemática, 2023/2
    
 ## Link do documento
 
-- (Google Docs)[https://docs.google.com/document/d/1Q7r9yMHd_964e1chmU7cZJsn6icbSNlMIacXhrmMn3g/edit?usp=sharing]
+- [Google Docs](https://docs.google.com/document/d/1Q7r9yMHd_964e1chmU7cZJsn6icbSNlMIacXhrmMn3g/edit?usp=sharing)
