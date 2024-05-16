@@ -8,6 +8,17 @@
 - Rafael Corona - 4769989
 - Vitor Caetano Brustolin - 11795589
 
+## Problema
+
+- Pontos de distribuição de guarda-chuva no campus da USP São Carlos
+  - Maximizar lucro / minimizar custo
+  - X usuários perdem o guarda-chuva por semana / mes / ano
+  - Custo de perda de guarda-chuva
+  - Custo de instalação
+  - Custo de manutenção
+  - Nunca um ponto de distribuição pode ficar sem guarda-chuva (Ou evitar isso ao máximo [somando custo alto ao acabar])
+    - Quem leva o guarda-chuva para esses pontos ganha mais $$
+
 ## Como executar o código do Toy Problem
 
 Para executar o código do Problema amostra desenvolvido, basta abrir arquivo **Solucao_toyProblem_SCIP.ipynb** em uma máquina com a biblioteca **PySCIPopt** instalada e o arquivo **toy_problem_input_new(1).txt** no mesmo diretório em que abrir o Jupyter Notebook.
